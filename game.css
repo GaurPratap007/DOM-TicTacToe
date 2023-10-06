@@ -1,0 +1,19 @@
+td{
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+
+div {
+  background-color: FloralWhite ;
+}
+body {
+  background-color: FloralWhite ;
+  text-align: center;
+}
